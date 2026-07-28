@@ -16,4 +16,3 @@ for i in range(10):
 p, i = contar_pares_impares(numeros)
 print("Pares:", p)
 print("Impares:", i)
-print("hola")
