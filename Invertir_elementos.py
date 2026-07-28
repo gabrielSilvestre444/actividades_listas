@@ -14,3 +14,4 @@ print("Original:", numeros)
     
 invertida = invertir_manual(numeros)
 print("Invertida:", invertida)
+ 
